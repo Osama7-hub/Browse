@@ -42,12 +42,12 @@ scrollButton.click(function(){
 
 
 // Trigger Nice Scroll Plugin
-$('html').niceScroll({
-    cursorcolor: '#00918e',
-    cursorwidth: '10px',
-    cursorborder: 'none',
-    cursorborderradius: 0
-});
+// $('html').niceScroll({
+//     cursorcolor: '#00918e',
+//     cursorwidth: '10px',
+//     cursorborder: 'none',
+//     cursorborderradius: 0
+// });
 
 // Trigger range Slider
 	$('input[type="range"]').rangeslider({

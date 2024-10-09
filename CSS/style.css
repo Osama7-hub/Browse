@@ -27,7 +27,7 @@
 /********** Start Header ***********/
 .header
 {
-    background: url('../images/header.jpg') fixed;
+    background: url('../Images/header.jpg') fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
